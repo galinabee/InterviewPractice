@@ -25,3 +25,7 @@ hs_error_pid*
 *.lib
 *.exe
 *.app
+.classpath
+.needspull
+.project
+.repo
